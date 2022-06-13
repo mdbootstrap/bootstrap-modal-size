@@ -3,7 +3,6 @@ Responsive popup window sizing with Bootstrap 5. Modal width, modal height, full
 
 Check out [Modal Size Documentation](https://mdbootstrap.com/docs/standard/extended/modal-size/) for detailed instructions & even more examples.
 
-![Bootstrap Dark Mode](https://mdbootstrap.com/img/Marketing/github/dark-mode/basic.jpeg)
 
 
 ## Modal Size
